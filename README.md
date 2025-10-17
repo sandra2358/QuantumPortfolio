@@ -1,7 +1,7 @@
 # QuantumPortfolio
 Sandra Yang's Portfolio on Quantum Circuits and Algorithms
 
-This portfolio covers the following: 
+This portfolio intend to cover the following: 
 0. [Foundational Quantum Mechanics](./Foundational-Quantum-Mechanics.ipynb)
 1. Gates
    a. [Single and Two-qubit Gates](./Single-and-Two-Qubit-Gates.ipynb)
@@ -11,7 +11,7 @@ This portfolio covers the following:
    2. Simon's Algorithm
    3. Quantum Fourier Transform (QFT)
    4. Quantum Phase Estimation
-   5. Shor's Algorithm
+   5. [Shor's Algorithm](./Shor-Algorithm.ipynb)
    6. Grover's Algorithm
    7. Superdense coding
-   8. Quantum Teleportation
+   8. [Quantum Teleportation](./Quantum-Teleportation.ipynb)
